@@ -3,7 +3,7 @@
 ## Personal Introduction
 
 Hello! I'm Ronnie, an experienced AI/Data Science/Full Stack developer from Asia. Despite having strong technical skills and a proven track record, I face a common challenge that many international freelancers encounter on Upwork.
-
+Mail: ronwilson1701@gmail.com
 ---
 
 ## 🌏 The Reality I Face
